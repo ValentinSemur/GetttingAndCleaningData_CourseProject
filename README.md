@@ -7,9 +7,9 @@ The run_analysis.R file is already heavily commented, however here are the main 
 
 ### 1 - Merging the training and the test sets to create one dataset
 
-First the datasets are loaded onto RStudio
-Then the three columns of the train and test datasets are combined
-Finally both datasets (train and test) are stacked on top of each other in order to create only one dataset with everything
+First the datasets are loaded onto RStudio  
+Then the three columns of the train and test datasets are combined  
+Finally both datasets (train and test) are stacked on top of each other in order to create only one dataset with everything  
 
 
 
